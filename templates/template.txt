@@ -1,0 +1,30 @@
+<div class="card shadow rounded-0 mb-3">
+	<div class="card-body text-body-secondary">
+		<div class="card-title mb-0">Title</div>
+		<div class="card-subtitle mb-0"><?php echo $system_name; ?></div>
+		<div class="line mb-4"></div>
+		xxx
+	</div>
+</div>
+=========================================
+<div class="card shadow rounded-0 mb-3">
+	<div class="card-body text-body-secondary">
+		xxx
+	</div>
+</div>
+=========================================
+<div class="row">
+	<div class="col-md-9">
+	  Column
+	</div>
+	<div class="col-md-3">
+	  Column
+	</div>
+</div>
+
+=========================================
+<div class="card rounded-0 mb-3 bg-body-tertiary border-0 shadow">
+	<div class="card-body text-body-secondary px-0">
+
+	</div>
+</div>
